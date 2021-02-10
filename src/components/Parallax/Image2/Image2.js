@@ -8,7 +8,8 @@ const Image2 = () => {
       blur={0}
       bgImage={image2}
       bgImageAlt="puppy2"
-      strength={200}
+      strength={210}
+      style={{height: 600, marginLeft: -200}}
     >
       <div style={{ height: '100vh' }}></div>
     </Parallax>

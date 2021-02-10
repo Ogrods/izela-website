@@ -8,9 +8,11 @@ const Image1 = scrollingLock => {
     <Parallax
       blur={0}
       bgImage={image1}
-      bgImageAlt="puppy1"
-      strength={200}
-    >
+      bgImageAlt="izelacover"
+      strength={10}
+      style={{height: 750, marginLeft: -5}}
+
+    > 
       <Menu scrollingLock={scrollingLock} />
     </Parallax>
   )

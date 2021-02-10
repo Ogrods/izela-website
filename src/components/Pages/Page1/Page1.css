@@ -1,7 +1,8 @@
 #page1 {
-    height: 400px;
+    height: 200px;
     color: white;
-    background-color: #767676;
+    background-color: #000000;
     padding: 100px;
-    font-family: Nauman;
+    font-family: Garamond;
+    text-align: center;
 }
