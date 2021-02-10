@@ -10,7 +10,7 @@ const Image1 = scrollingLock => {
       bgImage={image1}
       bgImageAlt="izelacover"
       strength={10}
-      style={{height: 750, marginLeft: -5}}
+      style={{height: 550, marginLeft: -5}}
 
     > 
       <Menu scrollingLock={scrollingLock} />
