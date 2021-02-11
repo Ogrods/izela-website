@@ -8336,6 +8336,13 @@ react-app-polyfill@^1.0.2:
     regenerator-runtime "^0.13.3"
     whatwg-fetch "^3.0.0"
 
+react-bandcamp@^1.1.5:
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/react-bandcamp/-/react-bandcamp-1.1.5.tgz#df057a23a195dcd6c99e3ef3f3b73a156427ac1f"
+  integrity sha512-FUf3eLEwGFhOiuCbtXiyVRusHOQJDd0cFrj45acBQywXgkT6EWhwWAESzPf2dOeVJ9XXKrnvLNVSZHBBNlMO6w==
+  dependencies:
+    prop-types "^15.6.2"
+
 react-dev-utils@^9.0.3:
   version "9.1.0"
   resolved "https://registry.yarnpkg.com/react-dev-utils/-/react-dev-utils-9.1.0.tgz#3ad2bb8848a32319d760d0a84c56c14bdaae5e81"

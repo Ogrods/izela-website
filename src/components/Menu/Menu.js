@@ -16,7 +16,7 @@ const Menu = props => {
         <div className="menu">
           <a href="#">Home</a>
           <a href="#page1">Music</a>
-          <a href="#page2">Contact</a>
+          <a href="#page2">About</a>
         </div>
 
       </div>

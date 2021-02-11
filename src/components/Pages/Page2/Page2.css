@@ -1,8 +1,14 @@
 #page2 {
-  height: 200px;
+  height: 270px;
   color: white;
   background-color: #000000;
   padding: 100px;
   font-family: Garamond;
   text-align: center;
+}
+
+#page2text {
+  width: 590px;
+  margin: 0px auto;
+  font-weight: bold;
 }
