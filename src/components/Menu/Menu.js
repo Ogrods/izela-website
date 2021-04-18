@@ -10,7 +10,7 @@ const Menu = props => {
         style={{position: scrollingLock ? "fixed" : "relative"}}>
 
         <div className="menu">
-          <div className="title">I</div>
+          {/* <div className="title">I</div> */}
         </div>
 
         <div className="menu">

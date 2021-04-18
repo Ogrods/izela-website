@@ -5,6 +5,8 @@ import Image2 from './components/Parallax/Image2/Image2';
 import Image3 from './components/Parallax/Image3/Image3';
 import Page1 from './components/Pages/Page1/Page1';
 import Page2 from './components/Pages/Page2/Page2';
+import BandcampPlayer from 'react-bandcamp'
+
 
 const App = () => {
 
@@ -26,6 +28,7 @@ const App = () => {
     <>
       <Image1 scrollingLock={scrollingLock} />
       <Page1/>
+          {/* <BandcampPlayer album="135567762" /> */}
       <Image2/>
       <Page2/>
       <Image3/>
