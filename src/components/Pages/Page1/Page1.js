@@ -15,7 +15,6 @@ const Page1 = () => {
       <BandcampPlayer 
       album="135567762"
       size="small"
-      width="500px"
       height="43px"
       tracklist="true" 
     />
